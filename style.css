@@ -1,0 +1,22 @@
+*{
+    margin: 10;
+    padding: 5;
+}
+body{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h1{
+    background-color: black;
+}
+strong{
+    color: #ffffff;
+}
+.apresentacao_link{
+    display: flex;
+    justify-content: space-between;
+}
+.apresentacao_link_link
+ backgroud-color:
+ width:
