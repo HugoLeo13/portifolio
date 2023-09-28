@@ -17,6 +17,11 @@ strong{
     display: flex;
     justify-content: space-between;
 }
-.apresentacao_link_link
- backgroud-color:
- width:
+
+.menu a :hover{
+    color:yellow;
+}
+body{
+    font-family:Arial;
+    justify-content:space-around;
+}
